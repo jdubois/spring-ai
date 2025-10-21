@@ -14,9 +14,8 @@
  * limitations under the License.
  */
 
-package org.springframework.ai.openai.official;
+package org.springframework.ai.openaiofficial;
 
-import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.openai.models.embeddings.EmbeddingCreateParams;
 import org.springframework.ai.embedding.EmbeddingOptions;
 
