@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.springframework.ai.openai.official.embedding;
+package org.springframework.ai.openaiofficial.embedding;
 
 import java.nio.charset.StandardCharsets;
 import java.util.List;
@@ -27,9 +27,9 @@ import org.springframework.ai.document.Document;
 import org.springframework.ai.embedding.EmbeddingRequest;
 import org.springframework.ai.embedding.EmbeddingResponse;
 import org.springframework.ai.embedding.TokenCountBatchingStrategy;
-import org.springframework.ai.openai.official.OpenAiOfficialEmbeddingModel;
-import org.springframework.ai.openai.official.OpenAiOfficialEmbeddingOptions;
-import org.springframework.ai.openai.official.OpenAiOfficialTestConfiguration;
+import org.springframework.ai.openaiofficial.OpenAiOfficialEmbeddingModel;
+import org.springframework.ai.openaiofficial.OpenAiOfficialEmbeddingOptions;
+import org.springframework.ai.openaiofficial.OpenAiOfficialTestConfiguration;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.core.io.DefaultResourceLoader;

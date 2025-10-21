@@ -1,4 +1,4 @@
-package org.springframework.ai.openai.official;
+package org.springframework.ai.openaiofficial;
 
 import com.openai.client.OpenAIClient;
 import com.openai.models.embeddings.CreateEmbeddingResponse;
