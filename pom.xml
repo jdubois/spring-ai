@@ -741,6 +741,7 @@
 								<exclude>org.springframework.ai.mistralai/**/*IT.java</exclude>
 								<exclude>org.springframework.ai.oci/**/*IT.java</exclude>
 								<exclude>org.springframework.ai.ollama/**/*IT.java</exclude>								<!-- <exclude>org.springframework.ai.openai/**/*IT.java</exclude> -->
+								<exclude>org.springframework.ai.openaiofficial/**/*IT.java</exclude>
 								<exclude>org.springframework.ai.postgresml/**/*IT.java</exclude>
 								<exclude>org.springframework.ai.stabilityai/**/*IT.java</exclude>
 								<exclude>org.springframework.ai.transformers/**/*IT.java</exclude>
